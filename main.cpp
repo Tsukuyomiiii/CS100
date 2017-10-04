@@ -5,11 +5,11 @@ using namespace std;
 
 int main()
 {
-	string Julie = "Love";
+	string name;
 
 	cout << "What is your name?" << endl;
 	cin >> name;
-	cout < "Helo " << name << "!" << endl;
+	cout < "Hello " << name << "!" << endl;
 
 	return 1;
 }
