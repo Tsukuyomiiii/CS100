@@ -6,7 +6,7 @@ int main()
 {
 	cout << "Hello Git" << endl;
 
-	return 1;
+	return 0;
 }
 
 
